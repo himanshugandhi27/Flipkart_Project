@@ -24,8 +24,9 @@ Feature: login page
      
      Given user launch the "https://www.flipkart.com"
      Then user click on sign in button
-     Then user Enters "username" and "password"
+     Then user Enters "9599077654" and "Himanshu@123"
      Then user click on signin button
      And verify user is able to login succesfully
+    
      
        
