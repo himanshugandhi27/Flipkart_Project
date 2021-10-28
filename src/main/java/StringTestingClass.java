@@ -3,7 +3,7 @@ public class StringTestingClass
 {
 public static void main(String a[])
 {
-	/* String str="himanshu";
+	/* String str="himanshu123";
 	String rev="";
 	
 	int length=str.length();
