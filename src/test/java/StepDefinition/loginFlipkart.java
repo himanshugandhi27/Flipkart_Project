@@ -53,7 +53,7 @@ public class loginFlipkart
        driver.findElement(By.xpath("//*[@class='_2KpZ6l _2HKlqd _3AWRsL']")).click();	
 	}
 
-	@Then("verify user is able to login succesfully")
+	@Then("verify user is able to login succesfull")
 	public void verify_user_is_able_to_login_succesfully() 
 	{
 		
